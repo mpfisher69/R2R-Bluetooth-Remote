@@ -10,5 +10,14 @@ This Bluetooth remote can be wired to other makes and models of tape machines, a
 <img src="Images/btr_app10.jpg" height="400" alt="Screenshot"/>
 <img src="Images/btr_app09.jpg" height="400" alt="Screenshot"/>
 <img src="Images/btr_app08.jpg" height="400" alt="Screenshot"/></p>
+<p> I have some of the receivers fully built, if you don't want to build one yourself.<br>
+Please <a href="mailto:audio@mpfisher.com">contact me</a> for details.<br>
+<img src="Images/bt_remote_PCBA.jpg" height="400" alt="Screenshot"/>
+<img src="Images/bt_remote_01.jpg" height="400" alt="Screenshot"/>
+<img src="Images/bt_remote_02.jpg" height="400" alt="Screenshot"/>
+<img src="Images/bt_remote_03.jpg" height="400" alt="Screenshot"/>
+<img src="Images/bt_remote_05.jpg" height="400" alt="Screenshot"/>
+</p>
+
 <p>Software is provided "as is" without any guarantee. I am looking for a colaborators who would want to develop it further and also help develop iOS app for iPhone/iPad.</p>
 <p>To-Do:
