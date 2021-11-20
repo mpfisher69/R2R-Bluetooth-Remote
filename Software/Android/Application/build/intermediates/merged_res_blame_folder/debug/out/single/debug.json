@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_btn_single_rew_on.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\drawable\\btn_single_rew_on.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_bluetooth_48.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_bluetooth_48.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_btn_double_stop.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\drawable\\btn_double_stop.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_bluetooth_connected_48.xml.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_bluetooth_connected_48.xml"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_btn_double_play.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\drawable\\btn_double_play.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_btn_single_auto_mute.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\drawable\\btn_single_auto_mute.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_btn_single_rec.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\drawable\\btn_single_rec.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_bluetooth_48.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_bluetooth_48.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_btn_single_pause_on.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\drawable\\btn_single_pause_on.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_btn_single_ffwd_on.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\drawable\\btn_single_ffwd_on.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_btn_single_play_rev_on.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\drawable\\btn_single_play_rev_on.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_bluetooth_connected_48.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_bluetooth_connected_48.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\layout_activity_device_list.xml.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\layout\\activity_device_list.xml"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_bluetooth_connected_48.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_bluetooth_connected_48.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_bluetooth_connected_48.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_bluetooth_connected_48.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_btn_single_play_fwd.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\drawable\\btn_single_play_fwd.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_btn_double_stop_on.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\drawable\\btn_double_stop_on.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\menu_bluetooth_remote.xml.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\menu\\bluetooth_remote.xml"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_bluetooth_48.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_bluetooth_48.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_bg_keypad_header.xml.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\drawable\\bg_keypad_header.xml"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_btn_single_pause.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\drawable\\btn_single_pause.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_btn_single_auto_mute_on.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\drawable\\btn_single_auto_mute_on.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_btn_single_rec_on.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\drawable\\btn_single_rec_on.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_btn_single_ffwd.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\drawable\\btn_single_ffwd.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_btn_single_rew.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\drawable\\btn_single_rew.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_bluetooth_connected_48.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_bluetooth_connected_48.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_bluetooth_connected_48.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_bluetooth_connected_48.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\layout_device_name.xml.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_btn_single_play_fwd_on.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\drawable\\btn_single_play_fwd_on.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_bluetooth_48.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_bluetooth_48.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_corner.xml.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\layout_fragment_bluetooth_remote.xml.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\layout\\fragment_bluetooth_remote.xml"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_bg_keypad_footer.xml.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\drawable\\bg_keypad_footer.xml"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_bluetooth_48.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_bluetooth_48.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_bluetooth_connected_48.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_bluetooth_connected_48.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_bluetooth_48.xml.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_bluetooth_48.xml"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_btn_single_play_rev.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\drawable\\btn_single_play_rev.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_btn_single_spacer.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\drawable\\btn_single_spacer.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_bluetooth_48.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_bluetooth_48.png"
+    },
+    {
+        "merged": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_btn_double_play_on.png.flat",
+        "source": "D:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\src\\main\\res\\drawable\\btn_double_play_on.png"
+    }
+]

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- general config -->
+    <PreferenceCategory android:title="@string/pref_category_general">
+
+        <EditTextPreference
+            android:title="Name not set"
+            android:dialogTitle="Enter the name:"
+            android:defaultValue="Name not set"
+            android:key="@string/prefkey_machine_name"
+            android:summary="@string/pref_machine_name_summary" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="@string/prefkey_show_play_rev"
+            android:summary="Show/Hide PLAY-REVERSE button"
+            android:title="Show PLAY-REVERSE button?" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="@string/prefkey_show_rec_mute"
+            android:summary="Show/Hide AUTO MUTE button"
+            android:title="Show AUTO MUTE button?" />
+        <ListPreference
+            android:defaultValue="Technics"
+            android:dialogTitle="@string/rec_stdby_mode"
+            android:entries="@array/rec_stdby_mode_entries"
+            android:entryValues="@array/rec_stdby_mode_entry_values"
+            android:key="@string/prefkey_rec_stdby_mode"
+            android:summary="@string/rec_stdby_mode_summary" />
+    </PreferenceCategory>
+
+    <!-- Receiver config section -->
+    <PreferenceCategory android:title="@string/pref_category_receiver_config">
+        <EditTextPreference
+            android:inputType="number"
+            android:singleLine="true"
+            android:title="@string/pref_delay_title"
+            android:dialogTitle="Enter the value:"
+            android:defaultValue="@string/pref_delay_default_value"
+            android:key="@string/prefkey_cmd_delay"
+            android:summary="@string/pref_delay_summary" />
+        <EditTextPreference
+            android:inputType="number"
+            android:singleLine="true"
+            android:title="@string/pref_pwm_title"
+            android:dialogTitle="Enter the value:"
+            android:defaultValue="@string/pref_pwm_default_value"
+            android:key="@string/prefkey_cmd_pwm"
+            android:summary="@string/pref_pwm_summary" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

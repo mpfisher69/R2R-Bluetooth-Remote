@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="rec_stdby_mode_entries">
+        <item>Akai (REC+PAUSE)</item>
+        <item>Pioneer (PAUSE+REC+PLAY FWD)</item>
+        <item>Tascam/Teac (REC+PAUSE+PLAY)</item>
+        <item>Technics (REC+PAUSE+PLAY)</item>
+    </string-array>
+    <string-array name="rec_stdby_mode_entry_values">
+        <item>Akai</item>
+        <item>Pioneer</item>
+        <item>Tascam</item>
+        <item>Technics</item>
+    </string-array>
+
+</resources>

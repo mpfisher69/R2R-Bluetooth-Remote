@@ -1,0 +1,4 @@
+#Sun Sep 26 20:01:43 BST 2021
+base.0=D\:\\mpfisher\\Documents\\Android\\projects\\BTRemote\\Application\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

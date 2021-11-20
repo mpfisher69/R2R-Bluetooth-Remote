@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name bt_remote-rescue)(type Legacy)(uri ${KIPRJMOD}/bt_remote-rescue.lib)(options "")(descr ""))
+)

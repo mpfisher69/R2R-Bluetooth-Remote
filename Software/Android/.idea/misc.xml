@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/mpfisher/Documents/Android/projects/BTRemote/Application/src/main/res/drawable-hdpi/btn_auto_mute.xml" value="0.2896396396396396" />
+        <entry key="..\:/mpfisher/Documents/Android/projects/BTRemote/Application/src/main/res/drawable-hdpi/btn_ffwd.xml" value="0.30933333333333335" />
+        <entry key="..\:/mpfisher/Documents/Android/projects/BTRemote/Application/src/main/res/drawable/bg_player_header.xml" value="0.40677083333333336" />
+        <entry key="..\:/mpfisher/Documents/Android/projects/BTRemote/Application/src/main/res/drawable/ic_bluetooth_48.xml" value="0.40677083333333336" />
+        <entry key="..\:/mpfisher/Documents/Android/projects/BTRemote/Application/src/main/res/drawable/rounded_corner.xml" value="0.40677083333333336" />
+        <entry key="..\:/mpfisher/Documents/Android/projects/BTRemote/Application/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/mpfisher/Documents/Android/projects/BTRemote/Application/src/main/res/layout/activity_settings.xml" value="0.22" />
+        <entry key="..\:/mpfisher/Documents/Android/projects/BTRemote/Application/src/main/res/layout/bg_player_footer.xml" value="0.26358695652173914" />
+        <entry key="..\:/mpfisher/Documents/Android/projects/BTRemote/Application/src/main/res/layout/bg_player_header.xml" value="0.1" />
+        <entry key="..\:/mpfisher/Documents/Android/projects/BTRemote/Application/src/main/res/layout/fragment_bluetooth_remote.xml" value="0.3153526970954357" />
+        <entry key="..\:/mpfisher/Documents/Android/projects/BTRemote/Application/src/main/res/layout/rounded_corner.xml" value="0.35260416666666666" />
+        <entry key="..\:/mpfisher/Documents/Android/projects/BTRemote/Application/src/main/res/menu/bluetooth_remote.xml" value="0.1" />
+        <entry key="..\:/mpfisher/Documents/Android/projects/BTRemote/Application/src/main/res/menu/main.xml" value="0.3333333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.3828571428571429" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

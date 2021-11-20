@@ -1,0 +1,51 @@
+com/mpfisher/common/logger/LogWrapper.java
+ com.mpfisher.common.logger.LogWrapper
+com/mpfisher/common/activities/SampleActivityBase.java
+ com.mpfisher.common.activities.SampleActivityBase
+com/mpfisher/btremote/Utils.java
+ com.mpfisher.btremote.Utils
+ com.mpfisher.btremote.Utils$InputFilterHex
+com/mpfisher/btremote/Constants.java
+ com.mpfisher.btremote.Constants
+com/mpfisher/common/logger/MessageOnlyLogFilter.java
+ com.mpfisher.common.logger.MessageOnlyLogFilter
+com/mpfisher/common/logger/LogNode.java
+ com.mpfisher.common.logger.LogNode
+com/mpfisher/btremote/BuildConfig.java
+ com.mpfisher.btremote.BuildConfig
+com/mpfisher/btremote/SettingsActivity.java
+ com.mpfisher.btremote.SettingsActivity
+com/mpfisher/btremote/BluetoothService.java
+ com.mpfisher.btremote.BluetoothService
+ com.mpfisher.btremote.BluetoothService$AcceptThread
+ com.mpfisher.btremote.BluetoothService$ConnectThread
+ com.mpfisher.btremote.BluetoothService$ConnectedThread
+com/mpfisher/common/logger/LogFragment.java
+ com.mpfisher.common.logger.LogFragment
+ com.mpfisher.common.logger.LogFragment$1
+com/mpfisher/common/logger/Log.java
+ com.mpfisher.common.logger.Log
+com/mpfisher/btremote/InputFilterMinMax.java
+ com.mpfisher.btremote.InputFilterMinMax
+com/mpfisher/common/logger/LogView.java
+ com.mpfisher.common.logger.LogView
+ com.mpfisher.common.logger.LogView$1
+com/mpfisher/btremote/DeviceListActivity.java
+ com.mpfisher.btremote.DeviceListActivity
+ com.mpfisher.btremote.DeviceListActivity$1
+ com.mpfisher.btremote.DeviceListActivity$2
+com/mpfisher/btremote/BluetoothFragment.java
+ com.mpfisher.btremote.BluetoothFragment
+ com.mpfisher.btremote.BluetoothFragment$1
+ com.mpfisher.btremote.BluetoothFragment$10
+ com.mpfisher.btremote.BluetoothFragment$11
+ com.mpfisher.btremote.BluetoothFragment$2
+ com.mpfisher.btremote.BluetoothFragment$3
+ com.mpfisher.btremote.BluetoothFragment$4
+ com.mpfisher.btremote.BluetoothFragment$5
+ com.mpfisher.btremote.BluetoothFragment$6
+ com.mpfisher.btremote.BluetoothFragment$7
+ com.mpfisher.btremote.BluetoothFragment$8
+ com.mpfisher.btremote.BluetoothFragment$9
+com/mpfisher/btremote/MainActivity.java
+ com.mpfisher.btremote.MainActivity
