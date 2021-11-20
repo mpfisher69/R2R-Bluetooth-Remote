@@ -8,5 +8,7 @@ This Bluetooth remote can be wired to other makes and models of tape machines, a
 <p>Screenshots:<br>
 <br>
 <img src="Images/btr_app10.jpg" height="400" alt="Screenshot"/></p>
+<img src="Images/btr_app09.jpg" height="400" alt="Screenshot"/></p>
+<img src="Images/btr_app08.jpg" height="400" alt="Screenshot"/></p>
 <p>Software is provided "as is" without any guarantee. I am looking for a colaborators who would want to develop it further and also help develop iOS app for iPhone/iPad.</p>
 <p>To-Do:
